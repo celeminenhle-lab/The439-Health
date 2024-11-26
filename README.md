@@ -1,6 +1,8 @@
 # The439-Health
 The 439 Health App Developed by Cele Minenhle is a comprehensive health and wellness platform designed to empower users to take control of their health with ease and convenience
 
+Apk available upon Request : minenhleleoncele@gmail.com
+
 App Link  : https://appetize.io/app/android/com.The439health?device=pixel7&osVersion=13.0&id%5B0%5D=android&id%5B1%5D=com.The439health
 
 ![2024-11-26 02-25-53 High Res Screenshot](https://github.com/user-attachments/assets/144e955d-3975-4f0b-9a47-9cec69e50dee)
